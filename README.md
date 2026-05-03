@@ -67,7 +67,7 @@ The goal is to group customers into different segments based on their purchasing
 * Business analytics
 
 
-## 👨‍💻 Author
+## Author
 
 Akash Ravindra Borse
 
